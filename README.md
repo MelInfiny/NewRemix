@@ -1,7 +1,12 @@
 
-**NewRemix** est une application mobile vous permet d'ajouter des effets audio dynamiques à vos fichiers musicaux, le tout avec une interface simple et intuitive.
+# 🚧 **APPLICATION NON TERMINÉE** 🚧
+Cette application est encore en développement et certaines fonctionnalités peuvent ne pas être complètement implémentées.
 
 ---
+---
+
+**NewRemix** est une application mobile vous permet d'ajouter des effets audio dynamiques à vos fichiers musicaux, le tout avec une interface simple et intuitive.
+
 
 ## 🎶 **Fonctionnalités principales** 🎶
 
@@ -65,5 +70,12 @@ Voici quelques idées pour le futur de **NewRemix** :
 - Une option pour **exporter les créations** en fichiers audio ou les partager directement sur les réseaux sociaux.
 
 --- 
+
+##  **Capture d'ecran de l'application** 
+
+<img src="NewRemix1.png" width="300" height="600"> <img src="NewRemix2.png" width="300" height="600">
+
+<img src="NewRemix3.png" width="300" height="600"> <img src="NewRemix_4.png" width="300" height="600">
+
 
 
